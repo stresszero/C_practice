@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include <stdio.h> // preprocessor directive
 
-int main() {
-    	printf("Hello World \n");
-        (void)getchar();
-        return 0;
+/* int main() {
+    printf("Hello World \n");
+    (void)getchar();
+    return 0;
 }
+*/

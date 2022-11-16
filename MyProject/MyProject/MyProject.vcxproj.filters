@@ -18,5 +18,8 @@
     <ClCompile Include="..\..\helloworld.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="var.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
