@@ -1,11 +1,14 @@
 #include <stdio.h> // preprocessor directive
 
 int main(void) {
-    for (int i = 0; i < 5; i++) {
-        for (int j = 0; j <= i; j++) {
-            printf("*");
-        }
-        printf("\n");
+    int n = 2;
+    switch (n) {
+        case 1:
+            printf("사과 \n");
+        case 2:
+            printf("딸기\n");
+        case 3:
+            printf("수박\n");
     }
     return 0;
 }
