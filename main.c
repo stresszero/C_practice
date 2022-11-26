@@ -1,12 +1,6 @@
 #include <stdio.h> // preprocessor directive
 
-void function_without_return();
-
 int main(void) {
-    function_without_return();
+    printf("%d + %d = %d\n", 1, 2, 1 + 2);
     return 0;
-}
-
-void function_without_return() {
-    printf("No return function. \n");
 }
