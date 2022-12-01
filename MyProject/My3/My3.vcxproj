@@ -19,13 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\my_first.c" />
+    <ClCompile Include="my_3rd.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{47cfe251-abc3-4711-bf31-f489ccef92ed}</ProjectGuid>
-    <RootNamespace>MyProject</RootNamespace>
+    <ProjectGuid>{97e4c6db-8aad-4339-a50f-75eed3b9546a}</ProjectGuid>
+    <RootNamespace>My3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

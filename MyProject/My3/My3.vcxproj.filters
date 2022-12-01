@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\my_first.c">
+    <ClCompile Include="my_3rd.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
