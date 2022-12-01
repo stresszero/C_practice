@@ -1,6 +1,6 @@
-#include <stdio.h> // preprocessor directive
+#include <stdio.h>
 
 int main(void) {
-    printf("%d + %d = %d\n", 1, 2, 1 + 2);
+    printf("What is your dream?\n");
     return 0;
 }
