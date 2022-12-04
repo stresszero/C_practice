@@ -1,12 +1,11 @@
+// #define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 
 int main()
 {
-	int n1, n2, n3, n4;
-
-	n1 = 2;
-	n2 = n1 * n1;
-	n3 = n2 * n1;
-	
+	int i = 0;
+	scanf("%d", &i); // & : ampersand
+	printf("Values is %d\n", i);
 	return 0;
 }
