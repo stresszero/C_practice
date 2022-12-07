@@ -2,11 +2,11 @@
 
 int main()
 {
-	float won = 0.0f;
-	float dollar = 0.0f;
-	printf("Input won\n");	
-	scanf("%f", &won);
-	dollar = won * 0.0009f;
-	printf("Dollar = %f\n", dollar);
+	int age = 25;
+	if (age >= 20) {
+		printf("You are an adult.\n");
+	} else {
+		printf("You are not an adult.\n");
+	}
 	return 0;
 }
