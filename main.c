@@ -2,11 +2,11 @@
 
 int main()
 {
-	int age = 25;
-	if (age >= 20) {
-		printf("You are an adult.\n");
-	} else {
-		printf("You are not an adult.\n");
+	for (int i = 0; i < 5; i++) {
+		for (int j = i; j <= 5 - 1; j++) {
+			printf("S");
+		}
+		printf("\n");
 	}
 	return 0;
 }
